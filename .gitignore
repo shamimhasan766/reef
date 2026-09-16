@@ -219,3 +219,6 @@ recipes/basic/work/
 
 # The GEPA AIME example writes its run state here.
 recipes/gepa/examples/aime/work*/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
